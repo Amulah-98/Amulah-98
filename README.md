@@ -17,11 +17,8 @@ I'm Amal Abdallah, a Junior Data Engineer and ML Enthusiast. I like solving prob
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Docker Badge](https://img.shields.io/badge/-Docker-007acc?style=for-the-badge&labelColor=black&logo=Docker&logoColor=007acc)](#)[![Jupyter notebook Badge](https://img.shields.io/badge/-jupyter-FC6A03?style=for-the-badge&labelColor=black&logo=jupyter&logoColor=#FF4500)](#) [![Github Badge](https://img.shields.io/badge/-github-white?style=for-the-badge&labelColor=black&logo=github&logoColor=#FF4500)](#) [![Git Badge](https://img.shields.io/badge/-git-red?style=for-the-badge&labelColor=black&logo=git&logoColor=#FF4500)](#) [![MySQL Badge](https://img.shields.io/badge/-MySQL-yellow?style=for-the-badge&labelColor=black&logo=MySQL&logoColor=#FF4500)](#) [![DBT Badge](https://img.shields.io/badge/-DBT-red?style=for-the-badge&labelColor=black&logo=DBT&logoColor=#FF4500)](#)
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)  [![Docker Badge](https://img.shields.io/badge/-Docker-007acc?style=for-the-badge&labelColor=black&logo=Docker&logoColor=007acc)](#)  [![Jupyter notebook Badge](https://img.shields.io/badge/-jupyter-FC6A03?style=for-the-badge&labelColor=black&logo=jupyter&logoColor=#FF4500)](#)  [![Github Badge](https://img.shields.io/badge/-github-white?style=for-the-badge&labelColor=black&logo=github&logoColor=#FF4500)](#)  [![Git Badge](https://img.shields.io/badge/-git-red?style=for-the-badge&labelColor=black&logo=git&logoColor=#FF4500)](#)  [![MySQL Badge](https://img.shields.io/badge/-MySQL-yellow?style=for-the-badge&labelColor=black&logo=MySQL&logoColor=#FF4500)](#)  [![DBT Badge](https://img.shields.io/badge/-DBT-red?style=for-the-badge&labelColor=black&logo=DBT&logoColor=#FF4500)](#)
 
-
-<br />
-<br />
 
 #### Business
 - :paperclip: [My Website](https://sites.google.com/view/amalshariff/home)
