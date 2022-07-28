@@ -27,17 +27,6 @@ I'm Amal Abdallah, a Junior Data Engineer and ML Enthusiast. I like solving prob
 - :paperclip: [My Website](https://sites.google.com/view/amalshariff/home)
 - :email: amalshariff98@gmail.com
 
-#### Coding Stats
-
-<!--START_SECTION:waka-->
-```text
-Python   15 hrs 41 mins  ████████████████████▓░░░░   82.29 % 
-HTML         1 hr 50 mins    █████████▒░░░░░░░░░░░░░░░   09.61 % 
-CSS     1 hr 27 mins    ██████░░░░░░░░░░░░░░░░░░░   07.63 % 
-Javascript        2 mins         ████░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-Streamlit         2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-```
-<!--END_SECTION:waka-->
 
 #### Github Stats
 
