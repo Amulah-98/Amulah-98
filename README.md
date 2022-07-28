@@ -33,9 +33,6 @@ I'm Amal Abdallah, a Junior Data Engineer and ML Enthusiast. I like solving prob
 
 <!--START_SECTION:waka-->
 
-```text
-No activity tracked
-```
 
 <!--END_SECTION:waka-->
 
