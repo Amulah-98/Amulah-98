@@ -31,14 +31,4 @@ I'm Amal Abdallah, a Junior Data Engineer and ML Enthusiast. I like solving prob
 
 </details>
 
-<!--START_SECTION:waka-->
-
-```text
-Markdown   24 mins         ████████████████████▓░░░░   82.11 %
-YAML       4 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.04 %
-Other      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
-```
-
-<!--END_SECTION:waka-->
-
 </details>
